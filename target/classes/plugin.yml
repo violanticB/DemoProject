@@ -1,4 +1,0 @@
-name: DemoPlugin
-version: 0.1
-main: demo.project.DemoPlugin
-description: Manipulates the movement of projectiles.
