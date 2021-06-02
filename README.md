@@ -1,4 +1,6 @@
-# DemoProject
+# TargetProjectiles
+
+[Code for GodComplex Programming Challenge]
 
 This adds custom projectiles to Minecraft.
 
